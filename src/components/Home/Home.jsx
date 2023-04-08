@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
 
 const Home = () => {
   return (
-    <div className='px-4 py-16 sm-max-w-xl l=md-max-w-full lg:max-w-screen-2xl mx-auto md:px-24 lg:px-8 lg-20 flex flex-col items-center justify-between lg:flex-row'>
+    <div className='my-container flex flex-col items-center justify-between lg:flex-row'>
       {/* Text Content */}
       <div className='mb-10 lg:max-w-lg  lg:pr-5 lg:mb-0'>
         <div className='max-w-xl mb-6 lg:mt-8'>

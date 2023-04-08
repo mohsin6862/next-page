@@ -11,3 +11,6 @@
 .badge{
     @apply bg-yellow-500 w-fit px-2 rounded font-bold
 } 
+.my-container{
+    @apply px-4 py-16 sm:max-w-xl md:max-w-full lg:max-w-screen-2xl mx-auto md:px-24 lg:px-8 lg:py-20
+}
